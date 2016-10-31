@@ -1,0 +1,16 @@
+{
+    "name": "ha1t/php-lite-lock",
+    "description": "vimparse.php",
+    "license": "MIT",
+    "homepage": "https://github.com/ha1t/php-vimparse",
+    "authors": [
+      {
+        "name": "ha1t",
+        "email": "ha1t@example.com"
+      }
+    ],
+    "require": {
+      "php": ">=5.2.3"
+    },
+    "bin": [ "bin/vimparse.php" ]
+}
